@@ -39,8 +39,8 @@ def get_cfg_tra(sec):
     target=""
     source=""
     if cc == "auto":
-        source  = 'auto'
-        target  = 'zh-CN'
+        source  = 'zh-CN'
+        target  = 'en'
         
          
     else:
